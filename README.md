@@ -10,22 +10,22 @@ Currently: Building developer tools and shipping side projects
 ## Tech I work with
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB) ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00) ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636) ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white&labelColor=CE422B) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
+![Python](https://img.shields.io/badge/Python-2d4a7a?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-7a3a1a?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1a3a7a?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-7a6020?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-7a4a10?style=for-the-badge&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-3a2d5a?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-7a2020?style=for-the-badge&logo=rust&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1a4a6a?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **ML / AI**  
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C) ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37726)
+![PyTorch](https://img.shields.io/badge/PyTorch-7a2828?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-7a6010?style=for-the-badge&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1a5a3a?style=for-the-badge&logo=langchain&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-7a4010?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Featured projects
 
 - **[LLMPhaseTransition](https://github.com/ppo6/LLMPhaseTransition)** — Applies physics-inspired phase-transition framing to map where LLM reliability sharply collapses under noisy or adversarial context. Includes mechanistic attention analysis and an agent failure taxonomy across clean, poisoned, and adversarial conditions.  
-  `python` `pytorch` `transformers` `jupyter` `llm-research`
+  ![python](https://img.shields.io/badge/python-1e2d3d?style=flat-square) ![pytorch](https://img.shields.io/badge/pytorch-1e2d3d?style=flat-square) ![transformers](https://img.shields.io/badge/transformers-1e2d3d?style=flat-square) ![jupyter](https://img.shields.io/badge/jupyter-1e2d3d?style=flat-square) ![llm-research](https://img.shields.io/badge/llm--research-1e2d3d?style=flat-square)
 - **[vouch-finance](https://github.com/ppo6/vouch-finance)** — Undercollateralized DeFi lending protocol built on social staking: users vouch for borrowers with their own collateral, earning yield while sharing risk.  
-  `solidity` `typescript` `react` `hardhat` `defi`
+  ![solidity](https://img.shields.io/badge/solidity-1e2d3d?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-1e2d3d?style=flat-square) ![react](https://img.shields.io/badge/react-1e2d3d?style=flat-square) ![hardhat](https://img.shields.io/badge/hardhat-1e2d3d?style=flat-square) ![defi](https://img.shields.io/badge/defi-1e2d3d?style=flat-square)
 
 ## GitHub activity
 
 <table width="100%"><tr>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ppo6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub+Stats" /></td>
+<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ppo6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub+Stats&hide=issues,contribs" /></td>
 <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppo6&layout=compact&theme=tokyonight&count_private=true&hide_border=true&custom_title=Top+Languages" /></td>
 </tr></table>
 

@@ -23,7 +23,7 @@ Currently: Building developer tools and shipping side projects
 
 ## GitHub activity
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ppo6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub+Stats&hide=issues,contribs&hide_rank=true" />&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppo6&layout=compact&theme=tokyonight&count_private=true&hide_border=true&custom_title=Top+Languages&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ppo6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub+Stats&hide=issues,contribs&hide_rank=true&show=prs_merged" />&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppo6&layout=compact&theme=tokyonight&count_private=true&hide_border=true&custom_title=Top+Languages&langs_count=6" />
 
 <p align="center">
 <picture>

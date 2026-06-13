@@ -10,10 +10,10 @@ Currently: Building developer tools and shipping side projects
 ## Tech I work with
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB) ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=A8A8A8) ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=CE422B) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB) ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00) ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636) ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white&labelColor=CE422B) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
 
 **ML / AI**  
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=65C890) ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37726)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C) ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37726)
 
 ## Featured projects
 
@@ -24,8 +24,10 @@ Currently: Building developer tools and shipping side projects
 
 ## GitHub activity
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ppo6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppo6&layout=compact&theme=tokyonight&count_private=true&hide_border=true" />
+<table width="100%"><tr>
+<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ppo6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub+Stats" /></td>
+<td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppo6&layout=compact&theme=tokyonight&count_private=true&hide_border=true&custom_title=Top+Languages" /></td>
+</tr></table>
 
 <p align="center">
 <picture>

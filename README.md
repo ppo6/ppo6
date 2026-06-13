@@ -1,5 +1,4 @@
-<p align="center">quant/builder  ·  mechanistic interp  ·  on-chain</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ppo6&style=flat-square&color=586069" alt="profile views" /></p>
+<p align="center">quant/builder  ·  mechanistic interp  ·  on-chain<br><img src="https://komarev.com/ghpvc/?username=ppo6&style=flat-square&color=586069" alt="profile views" /></p>
 
 ## What i do
 

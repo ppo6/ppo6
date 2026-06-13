@@ -25,8 +25,8 @@ Currently: Building developer tools and shipping side projects
 ## GitHub activity
 
 <table width="100%"><tr>
-<td width="50%"><img width="100%" height="185" src="https://github-readme-stats.vercel.app/api?username=ppo6&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=GitHub+Stats&hide=issues,contribs&hide_rank=true" /></td>
-<td width="50%"><img width="100%" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppo6&layout=compact&theme=tokyonight&count_private=true&hide_border=true&custom_title=Top+Languages" /></td>
+<td width="50%"><img width="100%" src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dppo6%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26include_all_commits%3Dtrue%26hide_border%3Dtrue%26custom_title%3DGitHub%2BStats%26hide%3Dissues%2Ccontribs%26hide_rank%3Dtrue&w=500&h=200&fit=contain&bg=0d1117" /></td>
+<td width="50%"><img width="100%" src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3Dppo6%26layout%3Dcompact%26theme%3Dtokyonight%26count_private%3Dtrue%26hide_border%3Dtrue%26custom_title%3DTop%2BLanguages&w=500&h=200&fit=contain&bg=0d1117" /></td>
 </tr></table>
 
 <p align="center">
